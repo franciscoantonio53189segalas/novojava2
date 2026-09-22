@@ -8,7 +8,7 @@ public class EXERCIDIA07 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite a idade:");
-        int idade = Integer.parseInt(scanner.nextLine();
+        int idade = Integer.parseInt(scanner.nextLine());
 
 
         System.out.println("Digite o slado:");
