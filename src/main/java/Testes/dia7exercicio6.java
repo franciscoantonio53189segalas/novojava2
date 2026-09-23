@@ -12,7 +12,6 @@ public class dia7exercicio6 {
         System.out.print("Digite a senha: ");
         String senha = scanner.nextLine();
 
-
         boolean loginValido = usuario.equals("admin") && senha.equals("1234");
 
         System.out.println("Acesso concedido? " + loginValido);
