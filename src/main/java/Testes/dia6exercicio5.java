@@ -1,6 +1,6 @@
 package Testes;
 
-public class exercicioDia6 {
+public class dia6exercicio5 {
     public static void main() {
         int pontos = 100;
 

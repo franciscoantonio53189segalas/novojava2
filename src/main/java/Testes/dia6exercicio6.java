@@ -2,7 +2,7 @@ package Testes;
 
 import java.util.Scanner;
 
-public class Dia6 {
+public class dia6exercicio6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
