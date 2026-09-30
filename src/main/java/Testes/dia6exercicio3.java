@@ -12,14 +12,5 @@ public class dia6exercicio3 {
         double frete = 9.90;
         System.out.printf("mais o valor do frete ficou: R$ %.2f%n ", compra + frete);
 
-
-
-
-
-
-
-
-
-
     }
 }
